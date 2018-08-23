@@ -11,6 +11,19 @@
 * Echart WebUpload BizCharts
 
 ***
-* 组件化展示
+* 数据展示
 1. 熟悉 html+css+div  掌握css3 less scss 写出符合W3C规范的页面
 * 了解H5新特性
+1. LocalStorage 
+2. canvas
+* 熟练操作DOM 快速解析XML文件 
+* 对web前端工程化;前后端分离;Axios,Fetch,Ajax;json数据结构对象设计，格式转化，使用渲染
+* 常用组件。
+1.自定义组件
+ 时间组件库，html2canvas(2img),大数据渲染组件，组织树组件等
+* 常用工具包
+1. loadsh; monnet;
+### 加分项
+1. Node.js
+2. 微信小程序开发
+
